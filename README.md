@@ -1,15 +1,15 @@
 ### Hi there ✨
  My name is Zahra a Freshman student at IAU
- Interstedin Web Develpmen https://github.com/alexandresanlim/Badges4-README.md-Profile#-web-browsers- & Data Science https://github.com/alexandresanlim/Badges4-README.md-Profile#-analytics-
+ Interstedin Web Develpmen  & Data Science https:
  I'm currently learning SQL & Django
 
 
  </br>
  
- #OS :
- [![WINDOWS11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white
+ OS :
+ ![WINDOWS11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white
 )
-[![KALI LINUX](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white
+![KALI LINUX](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white
 )
 
 </br>
