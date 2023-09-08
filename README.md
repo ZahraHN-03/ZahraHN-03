@@ -6,17 +6,6 @@
  I'm currently learning SQL & Django
 
 
- </br>
- 
-<center>
- 
- OS :
- </br>
- ![WINDOWS11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white
-)
-![KALI LINUX](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white
-)
-</center>
 </br>
 
 
