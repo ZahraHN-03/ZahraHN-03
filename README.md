@@ -1,17 +1,21 @@
 ### Hi there ✨
  My name is Zahra a Freshman student at IAU
- Interstedin Web Develpmen  & Data Science https:
+ </br>
+ Interstedin Web Develpmen  & Data Science
+ </br>
  I'm currently learning SQL & Django
 
 
  </br>
+ 
+<center>
  
  OS :
  ![WINDOWS11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white
 )
 ![KALI LINUX](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white
 )
-
+</center>
 </br>
 
 
