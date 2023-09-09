@@ -24,7 +24,7 @@
 )
 
 </br>
-<h1 align="center">OS<img src="https://github.com/alexandresanlim/Badges4-README.md-Profile#-os-"></h1>
+<h1 align="center">OS</h1>
 
 ![Windows11](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 )
