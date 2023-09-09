@@ -1,11 +1,11 @@
-<h1 align="center">Hallo<img src="https://www.bing.com/images/search?view=detailV2&ccid=2ACXldeZ&id=7189DD519F4D090709681108CC7647E8313DBEDC&thid=OIP.2ACXldeZDWSwMQ8v6gLy9QHaHa&mediaurl=https%3a%2f%2fwww.freepngimg.com%2fdownload%2fcat%2f35425-9-black-cat-transparent.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d8009795d7990d64b0310f2fea02f2f5%3frik%3d3L49MehHdswIEQ%26pid%3dImgRaw%26r%3d0&exph=2400&expw=2400&q=cat+badge+png+transparent+background&simid=608020675090279402&FORM=IRPRST&ck=5DF9799B112355F20F193422AD252BCB&selectedIndex=5"></h1> 
+<h1 align="center">Hallo <img src='https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif' width='40' height='40'></h1>
 <p align="center"> My name is Zahra a Freshman student at IAU ✨</p>
-<p align="center"> Interstedin Web Develpmen <img src="https://github.com/alexandresanlim/Badges4-README.md-Profile#-web-browsers-">  & Data Science <img src="https://github.com/alexandresanlim/Badges4-README.md-Profile#-most-used-language-"> </p>
+<p align="center"> Interstedin Web Develpmen & Data Science </p>
 <p align="center"> I'm currently learning SQL & Django<p>
 
 
 </br>
-<h1 align="center">Skills<img src="https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages-"></h1>
+<h1 align="center">Skills</h1>
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 )
