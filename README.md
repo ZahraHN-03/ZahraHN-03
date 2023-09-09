@@ -5,7 +5,7 @@
 
 
 </br>
-<h1 align="center">Skills</h1>
+<h1 align="center">Skills:</h1>
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 )
@@ -24,7 +24,7 @@
 )
 
 </br>
-<h1 align="center">OS</h1>
+<h1 align="center">OS:</h1>
 
 ![Windows11](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 )
