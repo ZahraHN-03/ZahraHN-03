@@ -1,6 +1,6 @@
 <h1 align="center">Hallo <img src='https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif' width='40' height='40'></h1>
 <p align="center"> My name is Zahra a Freshman student at IAU ✨</p>
-<p align="center"> Intersted in Web Develpment & Data Science </p>
+<p align="center"> Interested in Web Development & Data Science </p>
 <p align="center"> I'm currently learning SQL & Django<p>
 
 
