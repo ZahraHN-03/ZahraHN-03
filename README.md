@@ -1,11 +1,11 @@
-<h1 align="center">Hallo <img src='https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif' width='40' height='40'></h1>
-<p align="center"> My name is Zahra a Freshman student at IAU ✨</p>
-<p align="center"> Interested in Web Development & Data Science </p>
-<p align="center"> I'm currently learning SQL & Django<p>
+<h1 align="center">Hallo <img src='https://cpng.pikpng.com/pngl/s/256-2569485_cat-kawaii-pixel-pixelart-pixel-art-kawaii-png.png' width='35' height='35'></h1>
+<p align="center" border> My name is Zahra a Freshman student at IAU ✨</p>
+<p align="center"> Interested in Web\App Development, Data Science, Networking </p>
 
 
 </br>
 <h1 align="center">Skills:</h1>
+
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 )
@@ -22,15 +22,26 @@
 )
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
 )
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+)
+![TAILWIND CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 </br>
+
 <h1 align="center">OS:</h1>
 
 ![Windows11](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 )
 ![KALI LINUX](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white
 )
- 
+
+</br>
+
+<img align="right" height='250' width="850" alt="Kitty" src="https://th.bing.com/th/id/R.eed95a882ffacb6a1d9d7c7e0fc84cdd?rik=nl8hk4Obqz8xsA&pid=ImgRaw&r=0"></img>
+
 <!--
 **ZahraHN-03/ZahraHN-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
