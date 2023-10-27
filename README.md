@@ -1,6 +1,6 @@
 <h1 align="center">Hallo <img src='https://th.bing.com/th/id/R.8552a6974f02854bef060912d309c1df?rik=O0LWdNbtwuC7rA&riu=http%3a%2f%2fpixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com%2fimage%2f23134aefeb64ce9.png&ehk=hxvwg1oMQJuCDOMAgH5%2f6xmIONExx4YTUZycOgTetw0%3d&risl=&pid=ImgRaw&r=0' width='55' height='55'></h1>
-<p align="center" border> My name is Zahra a Freshman student at IAU ✨</p>
-<p align="center"> Interested in Web\App Development, Data Science, Networking </p>
+<p align="center" border> Looking to build fun stuff </p>
+<p align="center"> Intersted in Web/App development, Cyberecurity and operating systems </p>
 
 
 </br>
@@ -14,8 +14,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 )
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
-)
+
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white
 )
 ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white
@@ -26,8 +25,14 @@
 )
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 )
-![TAILWIND CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![TAILWIND CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E
+)
+![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
+)
 
 </br>
 
